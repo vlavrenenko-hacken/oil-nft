@@ -95,13 +95,3 @@ describe("AishiToken Test", function () {
       .withArgs(tokenId, recipient);
   });
 });
-
-// pause
-// unpause
-// ERC721PresetMinterPauserAutoId
-// ERC721Enumerable,
-// ERC721Burnable,
-// ERC721Pausable
-// ERC721
-
-// Lazy minting
