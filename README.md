@@ -1,1 +1,1 @@
-This repo shows how to create a ERC712 NFT token with additional functionality via [ERC721PresetMinterPauserAutoId](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/presets/ERC721PresetMinterPauserAutoId.sol)
+This repo shows how to create a ERC721 NFT token with additional functionality via [ERC721PresetMinterPauserAutoId](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/presets/ERC721PresetMinterPauserAutoId.sol)
